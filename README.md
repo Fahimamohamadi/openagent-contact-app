@@ -21,6 +21,12 @@ This project is a full-stack web application for managing contacts, built with R
 
 ---
 
+### Clone the repository
+```zsh
+git clone https://github.com/mohamad687232/openagent-contact-client.git
+```
+---
+
 ### 1. Install Dependencies
 
 From the project root, install dependencies for both client and backend:
